@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace OpenAI\Laravel\Support;
 
 use Symfony\Component\Console\Output\OutputInterface;
